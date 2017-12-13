@@ -1,0 +1,5 @@
+Z:\Dev\MCommunicatorIntegration\MciDatabase\bin\Debug\MciDatabase.dacpac
+Z:\Dev\MCommunicatorIntegration\MciDatabase\bin\Debug\MciDatabase.dll
+Z:\Dev\MCommunicatorIntegration\MciDatabase\bin\Debug\MciDatabase.pdb
+Z:\Dev\MCommunicatorIntegration\MciDatabase\obj\Debug\MciDatabase.dll
+Z:\Dev\MCommunicatorIntegration\MciDatabase\obj\Debug\MciDatabase.pdb

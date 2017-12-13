@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+<metadata>
+<!-- Required elements-->
+<id>MCommunicatorIntegration</id>
+<version>1</version>
+<description>Metro Communicator Integration Package</description>
+<authors>C Wilson</authors>
+
+<!-- Optional elements -->
+<!-- ... -->
+</metadata>
+<files>
+<file src=".\bin\Release\MCommunicatorIntegration.*" target="lib\net45" />
+</files>
+</package>

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Operations Version="1.0" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+  <Operation Name="Rename Refactor" Key="d09948b9-6385-47b7-87c9-12d28e6389c6" ChangeDateTime="12/13/2017 11:48:05">
+    <Property Name="ElementName" Value="[dbo].[tblMcAttachments].[McAttachmentID]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[tblMcAttachments]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="McAttachmentId" />
+  </Operation>
+</Operations>
