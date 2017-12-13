@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MCommunicatorIntegration", 
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UnitTests", "UnitTests", "{DFD643AB-A4F5-44A4-B8AC-9FF5F1F33A75}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MciUnitTests", "MciUnitTests\MciUnitTests.csproj", "{0A3E5822-9E01-415C-98F1-08C45B593841}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MCommunicatorIntegrationTests", "MciUnitTests\MCommunicatorIntegrationTests.csproj", "{0A3E5822-9E01-415C-98F1-08C45B593841}"
 EndProject
 Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "MciDatabase", "MciDatabase\MciDatabase.sqlproj", "{E1E5525E-AFE1-4943-A187-6B465D5ACA55}"
 EndProject
