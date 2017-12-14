@@ -23,12 +23,16 @@ namespace MciUnitTests
         [Test]
         public void WhenIInsertANewAttachmentTheCommandIsRecieved()
         {
+            //Arranging
             ISqlWrapper sqlWrapper = Substitute.For<ISqlWrapper>();
             IMcAttachment payload = new McAttachment();
 
             _target = new McAttachmentRepository(sqlWrapper);
+
+            //Act
             _target.Insert(payload);
 
+            //Assert
             sqlWrapper.Connection().Received();
             sqlWrapper.Command().Received();
 

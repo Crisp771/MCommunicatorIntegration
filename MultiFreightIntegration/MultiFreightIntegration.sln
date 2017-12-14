@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiFreightIntegration", "MultiFreightIntegration\MultiFreightIntegration.csproj", "{7A81EBD2-955B-4C67-94C1-F61EA9EC6E41}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UnitTests", "UnitTests", "{74F2F24D-FE54-4114-8FB1-27182728E9BA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "IntegrationTests", "IntegrationTests", "{EF7FA5CE-D593-4F9E-8C40-B60BA93CD3C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiFreightIntegrationTests", "MultiFreightIntegrationTests\MultiFreightIntegrationTests.csproj", "{EFF04CD5-1A1B-4DDC-A1A7-F258668377E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A81EBD2-955B-4C67-94C1-F61EA9EC6E41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A81EBD2-955B-4C67-94C1-F61EA9EC6E41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A81EBD2-955B-4C67-94C1-F61EA9EC6E41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A81EBD2-955B-4C67-94C1-F61EA9EC6E41}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFF04CD5-1A1B-4DDC-A1A7-F258668377E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFF04CD5-1A1B-4DDC-A1A7-F258668377E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFF04CD5-1A1B-4DDC-A1A7-F258668377E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFF04CD5-1A1B-4DDC-A1A7-F258668377E8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{EFF04CD5-1A1B-4DDC-A1A7-F258668377E8} = {74F2F24D-FE54-4114-8FB1-27182728E9BA}
+	EndGlobalSection
+EndGlobal
